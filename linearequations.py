@@ -12,7 +12,7 @@ while True:
         break
 print("COEFFICIENTS:")
 print(b)
-print("---------------------------")
+print("--------------------------")
 
 c = []
 while True:
@@ -24,7 +24,7 @@ while True:
         break
 print("RIGHT-HAND SIDE VALUES:")        
 print(c)
-print("---------------------------")
+print("--------------------------")
 
 
 import numpy as np 
